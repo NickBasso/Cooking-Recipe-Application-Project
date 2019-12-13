@@ -1,0 +1,30 @@
+recipe info:
+	kcal/nutrition facts
+	preparation steps
+	cooking steps
+	video guide
+	photos
+
+advanced search:
+	Difficulty
+	cooking time
+	products
+	instruments
+	cuisine
+	meal
+	constraints
+
+ratings:
+	author
+	community
+	experts
+
+collections (remove /group):
+	albums
+	groups
+	own recipes
+	
+	
+	
+	
+	
